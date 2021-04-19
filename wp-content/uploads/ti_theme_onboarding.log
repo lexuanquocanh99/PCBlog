@@ -1,0 +1,14 @@
+[19/Apr/2021:15:44:29] (I): WordPress Instance Info:
+[19/Apr/2021:15:44:29] (I): Home URL : http://localhost/pcblog
+[19/Apr/2021:15:44:29] (I): Site URL : http://localhost/pcblog
+[19/Apr/2021:15:44:29] (I): WordPress Version : 5.7.1
+[19/Apr/2021:15:44:29] (I): Onboarding Version : 1.1.7
+[19/Apr/2021:15:44:29] (I): Multisite : No
+[19/Apr/2021:15:44:29] (I): Server Info : Apache/2.4.46 (Win64) OpenSSL/1.1.1h PHP/8.0.2
+[19/Apr/2021:15:44:29] (I): PHP Version : 8.0.2
+[19/Apr/2021:15:44:29] (I): HTTPS : No
+[19/Apr/2021:15:44:29] (I): PHP Max Execution Time : 120
+[19/Apr/2021:15:44:29] (I): PHP Max Input Vars : 1000
+[19/Apr/2021:15:44:29] (I): Max Upload Size : 41943040
+[19/Apr/2021:15:44:29] (I): Plugins:
+[19/Apr/2021:15:44:29] (I): [PLUGIN] Templates Patterns Collection : v1.1.7 (ThemeIsle)
